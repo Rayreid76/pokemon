@@ -1,0 +1,21 @@
+.wrapper{
+    width: 960px;
+    background-color: blanchedalmond;
+}
+.gallary{
+    display: inline-block;
+    vertical-align: top;
+    width: 700px;
+}
+.deck{
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    border: 3px solid blue;
+    background-color: white;
+}
+.pokemon{
+    display: inline-block;
+    vertical-align: top;
+    border: 3px solid red;
+}
